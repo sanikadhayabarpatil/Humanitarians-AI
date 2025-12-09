@@ -1,0 +1,632 @@
+[
+  {
+    "index": 0,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 1,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 2,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 3,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 4,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 5,
+    "majority_verdict": "Refuted",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.84,
+    "num_supported": 0,
+    "num_refuted": 5,
+    "num_uncertain": 0
+  },
+  {
+    "index": 6,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 7,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.98,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 8,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 9,
+    "majority_verdict": "Uncertain",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.52,
+    "num_supported": 0,
+    "num_refuted": 0,
+    "num_uncertain": 5
+  },
+  {
+    "index": 10,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 11,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 12,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.88,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 13,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 14,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 15,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 16,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.98,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 17,
+    "majority_verdict": "Uncertain",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.5,
+    "num_supported": 0,
+    "num_refuted": 0,
+    "num_uncertain": 5
+  },
+  {
+    "index": 18,
+    "majority_verdict": "Uncertain",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.48,
+    "num_supported": 0,
+    "num_refuted": 0,
+    "num_uncertain": 5
+  },
+  {
+    "index": 19,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 20,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 21,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 22,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 23,
+    "majority_verdict": "Refuted",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.96,
+    "num_supported": 0,
+    "num_refuted": 5,
+    "num_uncertain": 0
+  },
+  {
+    "index": 24,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 25,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 26,
+    "majority_verdict": "Refuted",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.92,
+    "num_supported": 0,
+    "num_refuted": 5,
+    "num_uncertain": 0
+  },
+  {
+    "index": 27,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 0.8,
+    "mean_confidence": 0.98,
+    "num_supported": 4,
+    "num_refuted": 1,
+    "num_uncertain": 0
+  },
+  {
+    "index": 28,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 29,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 30,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 31,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 32,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 33,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.98,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 34,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 35,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 36,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 37,
+    "majority_verdict": "Uncertain",
+    "agreement_ratio": 0.6,
+    "mean_confidence": 0.68,
+    "num_supported": 2,
+    "num_refuted": 0,
+    "num_uncertain": 3
+  },
+  {
+    "index": 38,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 39,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 40,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 41,
+    "majority_verdict": "Uncertain",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.5,
+    "num_supported": 0,
+    "num_refuted": 0,
+    "num_uncertain": 5
+  },
+  {
+    "index": 42,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 43,
+    "majority_verdict": "Uncertain",
+    "agreement_ratio": 0.8,
+    "mean_confidence": 0.54,
+    "num_supported": 0,
+    "num_refuted": 1,
+    "num_uncertain": 4
+  },
+  {
+    "index": 44,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 0.8,
+    "mean_confidence": 0.9,
+    "num_supported": 4,
+    "num_refuted": 0,
+    "num_uncertain": 1
+  },
+  {
+    "index": 45,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 46,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 47,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.98,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 48,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 49,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 50,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 51,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 52,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 53,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 54,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 55,
+    "majority_verdict": "Uncertain",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.48,
+    "num_supported": 0,
+    "num_refuted": 0,
+    "num_uncertain": 5
+  },
+  {
+    "index": 56,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 57,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 58,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 59,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 60,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 61,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 0.8,
+    "mean_confidence": 0.94,
+    "num_supported": 4,
+    "num_refuted": 0,
+    "num_uncertain": 1
+  },
+  {
+    "index": 62,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 63,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 64,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 65,
+    "majority_verdict": "Uncertain",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 0.48,
+    "num_supported": 0,
+    "num_refuted": 0,
+    "num_uncertain": 5
+  },
+  {
+    "index": 66,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 67,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 68,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  },
+  {
+    "index": 69,
+    "majority_verdict": "Supported",
+    "agreement_ratio": 1.0,
+    "mean_confidence": 1.0,
+    "num_supported": 5,
+    "num_refuted": 0,
+    "num_uncertain": 0
+  }
+]

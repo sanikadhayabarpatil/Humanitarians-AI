@@ -1,0 +1,13 @@
+FINAL FACT-CHECKING SUMMARY
+=============================
+Total assertions analyzed: 70
+
+Final decisions:
+  Supported:    59
+  Refuted:      3
+  Needs Review: 8
+
+Stage-2 Majority Verdicts:
+  Supported: 59
+  Uncertain: 8
+  Refuted: 3

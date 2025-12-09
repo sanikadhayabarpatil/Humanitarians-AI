@@ -1,0 +1,422 @@
+[
+  {
+    "index": 0,
+    "original_statement": "Cancer cells display crucial modifications in many metabolic pathways, such as glycolysis and glutaminolysis, which include the tricarboxylic acid (TCA) cycle, the electron transport chain (ETC), and the pentose phosphate pathway (PPP).",
+    "section": "Introduction",
+    "sentence_number": 3
+  },
+  {
+    "index": 1,
+    "original_statement": "Warburg found that tumor cells rapidly consume glucose.",
+    "section": "11.1.1 Historical Perspective",
+    "sentence_number": 3
+  },
+  {
+    "index": 2,
+    "original_statement": "In the presence of oxygen, normal cellular respiration converts glucose to pyruvate, which enters the TCA cycle for oxidative phosphorylation with minimal lactate production.",
+    "section": "11.1.1 Historical Perspective",
+    "sentence_number": 4
+  },
+  {
+    "index": 3,
+    "original_statement": "Warburg observed increased glucose uptake and increased lactic acid production in tumor cells compared to normal cells, even in the presence of oxygen.",
+    "section": "11.1.1 Historical Perspective",
+    "sentence_number": 5
+  },
+  {
+    "index": 4,
+    "original_statement": "The metabolism of glucose to lactate despite the presence of adequate oxygen is called the Warburg effect or aerobic glycolysis.",
+    "section": "11.1.1 Historical Perspective",
+    "sentence_number": 6
+  },
+  {
+    "index": 5,
+    "original_statement": "In the Warburg effect, the flux of glucose to lactate is up to 100 times faster than through the TCA cycle resulting in similar amounts of ATP production over the same time.",
+    "section": "11.1.2 Contemporary Understanding",
+    "sentence_number": 2
+  },
+  {
+    "index": 6,
+    "original_statement": "PET imaging exploits the high rate of glycolysis in cancer cells using [18F]fluoro-2-deoxy-d-glucose (FDG), a radiolabeled glucose analog.",
+    "section": "11.1.2 Contemporary Understanding",
+    "sentence_number": 5
+  },
+  {
+    "index": 7,
+    "original_statement": "Glycolytic phenotypes are generally associated with worse patient survival in lung adenocarcinoma and triple-negative breast cancer.",
+    "section": "11.1.2 Contemporary Understanding",
+    "sentence_number": 6
+  },
+  {
+    "index": 8,
+    "original_statement": "The Warburg effect dictates that cancer cells undergo glycolysis to produce lactic acid even in the presence of oxygen, a process termed aerobic glycolysis.",
+    "section": "11.1.3 Metabolic Heterogeneity",
+    "sentence_number": 2
+  },
+  {
+    "index": 9,
+    "original_statement": "A subpopulation of cancer cells that are HIF negative and non-cycling expressed a distinct set of genes with increased expression of mitochondrial genes compared to other subpopulations.",
+    "section": "11.1.3 Metabolic Heterogeneity",
+    "sentence_number": 4
+  },
+  {
+    "index": 10,
+    "original_statement": "Glycolysis consumes 2 ATP molecules, producing 4 ATP, 2 NADH, and 2 pyruvates per glucose molecule.",
+    "section": "11.2.1 Glycolytic Pathway Regulation",
+    "sentence_number": 2
+  },
+  {
+    "index": 11,
+    "original_statement": "Glycolysis occurs in the cytosol of the cell.",
+    "section": "11.2.1 Glycolytic Pathway Regulation",
+    "sentence_number": 3
+  },
+  {
+    "index": 12,
+    "original_statement": "Tumor cells exhibit an upregulation in glycolysis, glycogen metabolism, and gluconeogenesis as opposed to normal cells.",
+    "section": "11.2.1 Glycolytic Pathway Regulation",
+    "sentence_number": 5
+  },
+  {
+    "index": 13,
+    "original_statement": "Control of glycolytic enzymes such as hexokinase, phosphofructokinase, glyceraldehyde-3-phosphate dehydrogenase, and pyruvate kinase is crucial for cancer metabolism.",
+    "section": "11.2.1 Glycolytic Pathway Regulation",
+    "sentence_number": 6
+  },
+  {
+    "index": 14,
+    "original_statement": "The Warburg effect phenomenon has been observed in the fibroblasts surrounding cancer cells, termed the reverse Warburg effect.",
+    "section": "11.2.2 The Reverse Warburg Effect",
+    "sentence_number": 2
+  },
+  {
+    "index": 15,
+    "original_statement": "HIF-1 induces aerobic glycolysis, along with glucose transporters GLUT1 and GLUT3.",
+    "section": "11.2.2 The Reverse Warburg Effect",
+    "sentence_number": 3
+  },
+  {
+    "index": 16,
+    "original_statement": "Pancreatic associated fibroblasts expressed elevated levels of the glycolytic enzymes LDHA and PKM2, as well as the MCT4 transporter responsible for lactate secretion.",
+    "section": "11.2.2 The Reverse Warburg Effect",
+    "sentence_number": 4
+  },
+  {
+    "index": 17,
+    "original_statement": "Pancreatic cancer cells exposed to CAF-conditioned media underwent enhanced aerobic activity, causing an observable enlargement of the mitochondria.",
+    "section": "11.2.2 The Reverse Warburg Effect",
+    "sentence_number": 5
+  },
+  {
+    "index": 18,
+    "original_statement": "Pancreatic cancer cells significantly increased the expression of MCT1, fumarate hydratase (FH), and succinate dehydrogenase (SDH) when exposed to CAF-conditioned media.",
+    "section": "11.2.2 The Reverse Warburg Effect",
+    "sentence_number": 6
+  },
+  {
+    "index": 19,
+    "original_statement": "Topotecan inhibits hypoxia-inducible factor 1 (HIF-1) transcriptional activity and HIF-1\u03b1 protein accumulation in hypoxia-treated U251 human glioma cells.",
+    "section": "11.2.3 Therapeutic Targeting of Glucose Metabolism",
+    "sentence_number": 3
+  },
+  {
+    "index": 20,
+    "original_statement": "Lactate dehydrogenase A (LDHA) is a suitable target for effective tumor reduction through small-molecule inhibition.",
+    "section": "11.2.3 Therapeutic Targeting of Glucose Metabolism",
+    "sentence_number": 5
+  },
+  {
+    "index": 21,
+    "original_statement": "Mitochondria are responsible for most of the useful energy derived from the breakdown of carbohydrates and fatty acids, converted to ATP by oxidative phosphorylation.",
+    "section": "11.3.1 Mitochondrial Structure and Function",
+    "sentence_number": 2
+  },
+  {
+    "index": 22,
+    "original_statement": "The inner mitochondrial membrane contains a high proportion of the phospholipid cardiolipin, which has four fatty acids.",
+    "section": "11.3.1 Mitochondrial Structure and Function",
+    "sentence_number": 3
+  },
+  {
+    "index": 23,
+    "original_statement": "Oxidation of pyruvate in mitochondria allows 15 times more ATP to be made than that produced by glycolysis alone.",
+    "section": "11.3.2 Mitochondria in Cancer Metabolism",
+    "sentence_number": 2
+  },
+  {
+    "index": 24,
+    "original_statement": "Mitochondria are constantly changing their shape and fusing with one another and then separating again.",
+    "section": "11.3.2 Mitochondria in Cancer Metabolism",
+    "sentence_number": 3
+  },
+  {
+    "index": 25,
+    "original_statement": "The respiratory chain is the name given to the electron-transport chain in mitochondria.",
+    "section": "11.3.2 Mitochondria in Cancer Metabolism",
+    "sentence_number": 4
+  },
+  {
+    "index": 26,
+    "original_statement": "The nucleus contains the genes that encode most of the mitochondrial proteins required for oxidative phosphorylation and all of the enzymes involved in mitochondrial metabolism.",
+    "section": "11.3.3 Mitochondrial Protein Import and Assembly",
+    "sentence_number": 3
+  },
+  {
+    "index": 27,
+    "original_statement": "More than 95% of mitochondrial proteins are synthesized on free cytosolic ribosomes and imported into mitochondria as completed polypeptide chains.",
+    "section": "11.3.3 Mitochondrial Protein Import and Assembly",
+    "sentence_number": 4
+  },
+  {
+    "index": 28,
+    "original_statement": "Endogenous fatty acid synthesis is frequently upregulated in cancer because fatty acids serve as substrates for lipid signaling molecules, protein lipidation, phospholipid synthesis, or energy storage as triglycerides.",
+    "section": "11.4.1 Fatty Acid Synthesis and Cancer",
+    "sentence_number": 2
+  },
+  {
+    "index": 29,
+    "original_statement": "ATP citrate lyase (ACLY) cleaves cytosolic citrate into acetyl-CoA and oxaloacetate.",
+    "section": "11.4.1 Fatty Acid Synthesis and Cancer",
+    "sentence_number": 4
+  },
+  {
+    "index": 30,
+    "original_statement": "ATP citrate lyase (ACLY) is found to be elevated in many types of cancers, including breast, lung, liver, and bladder cancers.",
+    "section": "11.4.1 Fatty Acid Synthesis and Cancer",
+    "sentence_number": 5
+  },
+  {
+    "index": 31,
+    "original_statement": "Inhibition of the mitochondrial citrate transporter protein (CTP) resulted in anti-tumorigenesis in vivo.",
+    "section": "11.4.1 Fatty Acid Synthesis and Cancer",
+    "sentence_number": 6
+  },
+  {
+    "index": 32,
+    "original_statement": "Mitochondria fatty acid \u03b2-oxidation (FAO) plays a crucial role in the bioenergy metabolism exploited by cancer cells.",
+    "section": "11.4.2 Fatty Acid Oxidation",
+    "sentence_number": 2
+  },
+  {
+    "index": 33,
+    "original_statement": "Cancer-associated fibroblasts (CAFs) overexpress FASN and undergo lipidomic reprogramming to help colorectal cancer cells meet their high energy demands by providing them with newly synthesized lipids.",
+    "section": "11.4.3 Cancer-Associated Fibroblasts and Lipid Metabolism",
+    "sentence_number": 2
+  },
+  {
+    "index": 34,
+    "original_statement": "Stromal catabolites, such as free fatty acids, promote tumor growth and act as chemoattractants to metastasizing cancer cells.",
+    "section": "11.4.3 Cancer-Associated Fibroblasts and Lipid Metabolism",
+    "sentence_number": 4
+  },
+  {
+    "index": 35,
+    "original_statement": "Glutamine is one of the most abundant nonessential amino acids in the bloodstream.",
+    "section": "11.5.1 Glutamine Metabolism",
+    "sentence_number": 2
+  },
+  {
+    "index": 36,
+    "original_statement": "Many tumor cells are reliant on exogenous glutamine and have been reported to die in its absence.",
+    "section": "11.5.1 Glutamine Metabolism",
+    "sentence_number": 4
+  },
+  {
+    "index": 37,
+    "original_statement": "\u03b1-KG formation from glutamate can be catalyzed by either glutamate dehydrogenase (GDH) or aminotransferases.",
+    "section": "11.5.1 Glutamine Metabolism",
+    "sentence_number": 5
+  },
+  {
+    "index": 38,
+    "original_statement": "Glutathione plays an important role in the neutralization of mitochondrial reactive oxygen species (ROS).",
+    "section": "11.5.1 Glutamine Metabolism",
+    "sentence_number": 6
+  },
+  {
+    "index": 39,
+    "original_statement": "SHMT catalyzes the conversion of serine to glycine and is regulated by c-MYC.",
+    "section": "11.5.2 Serine and Glycine Metabolism",
+    "sentence_number": 2
+  },
+  {
+    "index": 40,
+    "original_statement": "Mice fed diets lacking serine and glycine showed a reduction in tumor sizes and survived longer than those fed diets containing the amino acids.",
+    "section": "11.5.2 Serine and Glycine Metabolism",
+    "sentence_number": 4
+  },
+  {
+    "index": 41,
+    "original_statement": "Inhibition of GLS2 can block glutaminolysis, decrease the hepatic metabolic flux from glutamine to glucose, decrease the initial blood glucose level, and increase insulin sensitivity.",
+    "section": "11.5.3 Therapeutic Targeting of Amino Acid Metabolism",
+    "sentence_number": 2
+  },
+  {
+    "index": 42,
+    "original_statement": "Cancer-associated fibroblasts (CAFs) are a major component of the tumor microenvironment (TME).",
+    "section": "11.6.1 Cancer-Associated Fibroblasts (CAFs)",
+    "sentence_number": 2
+  },
+  {
+    "index": 43,
+    "original_statement": "Pyruvate and lactate were believed to be secreted by the hypoxic core of the tumor through monocarboxylate transporters (MCT4) for the adjacent oxygenated cancer cells to take up via MCT1 and utilize for the TCA cycle.",
+    "section": "11.6.2 Metabolic Cross-Talk",
+    "sentence_number": 2
+  },
+  {
+    "index": 44,
+    "original_statement": "CAFs provide lactate and ketone bodies, acidic compounds that can form acetyl-CoA in a reversible manner, to adjacent cancer cells.",
+    "section": "11.6.2 Metabolic Cross-Talk",
+    "sentence_number": 3
+  },
+  {
+    "index": 45,
+    "original_statement": "CAFs can transfer functional mitochondria to prostate cancer cells.",
+    "section": "11.6.2 Metabolic Cross-Talk",
+    "sentence_number": 5
+  },
+  {
+    "index": 46,
+    "original_statement": "CAF-derived exosomes (CDEs) are taken up by cancer cells in a KRAS-independent mechanism.",
+    "section": "11.6.2 Metabolic Cross-Talk",
+    "sentence_number": 6
+  },
+  {
+    "index": 47,
+    "original_statement": "CDEs are capable of reprogramming the metabolic activity of pancreatic and prostate cancer cells.",
+    "section": "11.6.2 Metabolic Cross-Talk",
+    "sentence_number": 6
+  },
+  {
+    "index": 48,
+    "original_statement": "In pancreatic ductal adenocarcinoma (PDAC), alanine outcompetes glucose and glutamine-derived carbon to fuel the TCA cycle.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 2
+  },
+  {
+    "index": 49,
+    "original_statement": "Pancreatic stellate cells (PSCs) secrete alanine through an autophagy-dependent mechanism.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 4
+  },
+  {
+    "index": 50,
+    "original_statement": "PSCs utilize the SLC1A4 (Alanine-Serine-Cysteine Transporter 1) to rapidly exchange and maintain environmental alanine concentrations.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 6
+  },
+  {
+    "index": 51,
+    "original_statement": "PDAC cells upregulate SLC38A2 (Sodium-coupled Neutral Amino acid Transporter 2) to actively uptake alanine from the microenvironment.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 7
+  },
+  {
+    "index": 52,
+    "original_statement": "GPT1 (Cytosolic glutamic-pyruvic transaminase) converts alanine to pyruvate in the cytoplasm.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 9
+  },
+  {
+    "index": 53,
+    "original_statement": "GPT2 is the mitochondrial isoform that PDAC cells selectively express for direct mitochondrial alanine utilization.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 9
+  },
+  {
+    "index": 54,
+    "original_statement": "Alanine-derived pyruvate does not equilibrate with cytosolic pyruvate in cancer cells.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 10
+  },
+  {
+    "index": 55,
+    "original_statement": "More than 20% of palmitate and 10% of stearate contain alanine-derived carbon in isotope tracing studies.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 12
+  },
+  {
+    "index": 56,
+    "original_statement": "Loss of SLC38A2 in PDAC cells leads to passive efflux of newly synthesized alanine to the environment.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 15
+  },
+  {
+    "index": 57,
+    "original_statement": "Glutamine provides nitrogen for alanine synthesis through transamination.",
+    "section": "11.6.3 Alanine Metabolism: A Critical Metabolic Bridge",
+    "sentence_number": 17
+  },
+  {
+    "index": 58,
+    "original_statement": "AZD3965, an MCT1 inhibitor, is currently being tested in a phase I clinical trial in solid tumors.",
+    "section": "11.7.1 Targeting Glycolysis",
+    "sentence_number": 4
+  },
+  {
+    "index": 59,
+    "original_statement": "The first fatty acid synthase (FAS) inhibitor, TVB-2640, is in clinical trials for cancer.",
+    "section": "11.7.2 Targeting Lipid Metabolism",
+    "sentence_number": 2
+  },
+  {
+    "index": 60,
+    "original_statement": "Low-glucose environments result in cancer cells that are less susceptible to ACLY inhibition because cancer cells can use acetate instead of citrate to produce acetyl-CoA for DNLS.",
+    "section": "11.7.2 Targeting Lipid Metabolism",
+    "sentence_number": 4
+  },
+  {
+    "index": 61,
+    "original_statement": "Pancreatic tumors treated with BPTES, a glutaminase 1 (GLS1) inhibitor encapsulated in a nanoparticle, decreased tumor sizes.",
+    "section": "11.7.3 Combination Strategies",
+    "sentence_number": 2
+  },
+  {
+    "index": 62,
+    "original_statement": "Metformin can be used to inhibit glycolysis and block the function of CAFs.",
+    "section": "11.7.3 Combination Strategies",
+    "sentence_number": 4
+  },
+  {
+    "index": 63,
+    "original_statement": "The Warburg effect, the increased rate of glycolysis in tumorigenic cells, can be observed even in conditions of normal oxygen levels.",
+    "section": "11.7.4 Challenges in Metabolic Targeting",
+    "sentence_number": 3
+  },
+  {
+    "index": 64,
+    "original_statement": "In c-Myc-driven HCC, glucose catabolism through glycolysis is elevated via the activation of pyruvate kinase.",
+    "section": "11.7.4 Challenges in Metabolic Targeting",
+    "sentence_number": 4
+  },
+  {
+    "index": 65,
+    "original_statement": "Inhibition of glycolysis and increase in oxidative phosphorylation can re-sensitize HCC cells to chemotherapeutics such as sorafenib, cisplatin, and isoliensinine.",
+    "section": "11.7.4 Challenges in Metabolic Targeting",
+    "sentence_number": 4
+  },
+  {
+    "index": 66,
+    "original_statement": "Solid tumors are heterogeneous structures.",
+    "section": "11.7.4 Challenges in Metabolic Targeting",
+    "sentence_number": 5
+  },
+  {
+    "index": 67,
+    "original_statement": "Tumor hypoperfusion, secondary to the hyperpermeability of the aberrant vasculature, along with low oxygen, depleted nutrition, low pH, and high interstitial pressure can cause chemoresistance.",
+    "section": "11.7.4 Challenges in Metabolic Targeting",
+    "sentence_number": 6
+  },
+  {
+    "index": 68,
+    "original_statement": "Cancer cells exhibit higher glucose metabolism rates and preferentially utilize glycolysis over oxidative phosphorylation, especially in hypoxic conditions (Warburg effect), compared to normal cells.",
+    "section": "11.7.4 Challenges in Metabolic Targeting",
+    "sentence_number": 7
+  },
+  {
+    "index": 69,
+    "original_statement": "Dauricine dose-dependently suppressed glucose glycolysis and increased oxidative phosphorylation by downregulating the expression of hexokinase 2 and pyruvate kinase M2 in HCC cells.",
+    "section": "11.8.2 Integration with Other Treatment Modalities",
+    "sentence_number": 2
+  }
+]
